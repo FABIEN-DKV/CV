@@ -1,0 +1,13 @@
+body{
+	font-size: 1.3em;
+	font: arial comic sans-serif;
+}
+h2{
+	border: 5px black solid;
+	box-shadow: 6px 6px 6px;
+	text-align: center;
+}
+h2
+{
+	text-align: center;
+}
